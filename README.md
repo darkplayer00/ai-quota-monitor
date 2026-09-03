@@ -27,20 +27,12 @@
 
 ## 🚀 Instalación y Uso
 
-### Opción 1: Versión Instalable (Recomendada)
-1. Descarga el paquete `AI_Quota_Monitor_Instalador.zip` desde la carpeta `distribucion/` o los Releases.
-2. Descomprímelo y ejecuta **`Instalar.bat`**.
-3. El instalador:
-   - Copiará los archivos en `%LOCALAPPDATA%\Programs\AIQuotaWidget`.
-   - Creará accesos directos en el **Escritorio** y en el **Menú Inicio**.
-   - Creará un desinstalador automático (`Desinstalar.bat`).
-   - Iniciará el monitor al instante.
+## 📥 Descargas Oficiales (Releases)
 
-### Opción 2: Versión Portable (100% Autónoma)
-1. Descarga `AI_Quota_Monitor_Portable.zip`.
-2. Descomprímelo en cualquier carpeta, disco externo o pendrive USB.
-3. Ejecuta directamente **`AI_Quota_Monitor.exe`**.
-4. Toda la configuración e historial se guardan localmente en la subcarpeta `data/`, sin dejar archivos en el sistema.
+| Opción | Archivo | Descripción |
+| :--- | :--- | :--- |
+| 🚀 **Instalador Oficial de Windows** | [**`AI_Quota_Monitor_Setup.exe`**](https://github.com/darkplayer00/ai-quota-monitor/releases/download/v2.5.0/AI_Quota_Monitor_Setup.exe) | Asistente de instalación clásico (*Siguiente > Siguiente > Instalar*), accesos directos y desinstalador formal. |
+| 💼 **Versión Portable** | [**`AI_Quota_Monitor_Portable.zip`**](https://github.com/darkplayer00/ai-quota-monitor/releases/download/v2.5.0/AI_Quota_Monitor_Portable.zip) | Sin instalación. Ejecutable autónomo listo para correr desde cualquier carpeta o pendrive USB (datos en `./data/`). |
 
 ---
 
