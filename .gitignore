@@ -1,0 +1,27 @@
+# Entorno Python & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# PyInstaller Directorio de compilación temporal y salida binaria
+build/
+dist/
+distribucion/
+test_*.py
+
+# Datos locales y reportes generados por el usuario
+data/
+*.log
+*.csv
+usage_history.json
+
+# Archivos de entorno y editores
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini

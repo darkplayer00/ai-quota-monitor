@@ -1,0 +1,16 @@
+{
+  "x": 1100,
+  "y": 280,
+  "width": 295,
+  "height": 300,
+  "always_on_top": false,
+  "selected_model": "Gemini",
+  "show_exact_date": true,
+  "dynamic_opacity": false,
+  "notifications_enabled": true,
+  "sound_enabled": true,
+  "theme": "bento_dark",
+  "refresh_interval_sec": 30,
+  "show_stats": false,
+  "stats_mode": "weekly"
+}
